@@ -13,7 +13,7 @@ echo "when you are part of a team"
 echo "everything is awesome"
 echo "when you are living your dream"
 
-echo "this is fun yo"
+echo "this is SUPER fun yo"
 date
-echo "lets get married"
+echo "lets get married RIGHT NOW"
 
