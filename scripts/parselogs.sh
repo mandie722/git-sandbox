@@ -5,7 +5,7 @@ if [ ! -z "$1" ]; then
 	PARAMS="$1"
 fi
 
-cat $PARAMS | grep "love by sweetie"
+cat $PARAMS | grep "love my sweetie"
 
 time echo "everything is awesome"
 echo "when you are part of team fliptop"
