@@ -1,5 +1,10 @@
 #!/bin/bash
 
+PARAM="foo bar bob"
+if [ -z $1 ]; then
+	PARAM=$1
+fi
+
 cat $1 | grep "love by baby"
 
 time echo "everything is awesome"
