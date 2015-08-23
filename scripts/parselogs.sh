@@ -7,10 +7,10 @@ fi
 
 cat $PARAMS | grep "love my sweetie"
 
-time echo "everything is awesome"
+time echo "everything is awesome!"
 echo "when you are part of team fliptop"
 
-echo "everything is awesome!"
+echo "everything is awesome!!"
 echo "when you are living your dream"
 
 echo "this is SUPER fun yo"
