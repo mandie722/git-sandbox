@@ -1,11 +1,11 @@
 #!/bin/bash
 
-PARAM="foo bar bob"
+PARAMS="foo bar bob"
 if [ ! -z "$1" ]; then
-	PARAM="$1"
+	PARAMS="$1"
 fi
 
-cat $PARAM | grep "love by baby"
+cat $PARAMS | grep "love by baby"
 
 time echo "everything is awesome"
 echo "when you are part of a team"
